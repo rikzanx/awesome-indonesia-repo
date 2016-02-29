@@ -13,12 +13,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Books](#books)
 - [Content Management System](#content-management-system)
 - [Databases](#databases)
-- [Gaming](#gaming)
 - [Front-end Development](#front-end-development)
 - [JavaScript](#javascript)
 - [Learn](#learn)
 - [PHP](#php)
-	- [Code Igniter](#code-igniter)
+	- [CodeIgniter](#codeigniter)
 	- [Laravel](#laravel)
 	- [Yii](#yii)
 - [Python](#python)
@@ -35,21 +34,37 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Databases
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia
 
-## Gaming
-
 ## Front-end Development
 
 ## JavaScript
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
 
 ## Learn
+- [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter
+- [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia
 
 ## PHP
+
+## CodeIgniter
+- [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - File-based CMS build with CodeIgniter Framework
 
 ## Laravel
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara
 
+## Yii
+
+## Python
+
+## Security
+- [Who Wrote This Shit](https://github.com/geovedi/who-wrote-this-shit) - Simple demonstration forensic linguistics program analysing a document
+
 ## Miscellaneous
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - Static site theme style Mac OSX Lion
 
-> TODO : ADD CONTRIBUTING, ADD LIST REPOSITORY
+> Todo :
+> - Add Contributing
+> - Add List Table of Content
+> - Add Awesome Repository
+>
+> Note :
+> Many awesome repository created by Indonesian people. If you found awesome, you can add to the list.
