@@ -80,6 +80,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Slim
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment
+- [Boilerplate Slim 3] (https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework
 
 ## Python
 - [Auto Complete Python](https://github.com/sadovnychyi/autocomplete-python) - Jedi based Python autocomplete for Atom
