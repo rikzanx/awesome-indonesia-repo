@@ -87,4 +87,4 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Miscellaneous
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme style Mac OSX Lion
-- [Dotfiles Custom DE Linux](https://github.com/riefachan/dotfiles) - (Desktop/Custom/DE/Linux) Solid and Flat Custom DE Linux
+- [Dotfiles Custom DE Linux](https://github.com/riefachan/dotfiles) - (Customize Linux) Solid and Flat Custom DE Linux
