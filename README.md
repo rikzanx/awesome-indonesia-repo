@@ -16,7 +16,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Databases](#databases)
 - [Framework](#framework)
 - [Front-end Development](#front-end-development)
+- [Game](#game)
 - [JavaScript](#javascript)
+- [Jekyll Theme](#jekyll-theme)
 - [Learn](#learn)
 - [Pentest](#pentest)
 - [PHP](#php)
@@ -30,6 +32,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Android StepsView](https://github.com/anton46/Android-StepsView) - Android-StepsView.
 - [WhatsApp ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style.
 - [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native.
+- [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
 
 
 ## Books
@@ -49,6 +52,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown) - Bootstrap plugin for markdown editing.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
+- [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
+
+## Game
+- [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using angular.js and firebase.
 
 ## JavaScript
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
@@ -57,10 +64,16 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime Javascript Boilerplate base on Meteor Js Framework.
 - [SimpleExcel.js](https://github.com/faisalman/simple-excel-js) - Client-side script to easily parse / convert / write any Microsoft Excel.
 - [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
+- [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
+
+## Jekyll Theme
+- [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll themes use Material Design Lite.
+- [Mangan](https://github.com/dikiaap/mangan) - A Light contrast of Jekyll theme.
 
 ## Learn
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
 - [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
+- [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 
 ## Pentest
 - [Who Wrote This Shit](https://github.com/geovedi/who-wrote-this-shit) - Simple demonstration forensic linguistics program analysing a document.
@@ -72,11 +85,13 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## CodeIgniter
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
 - [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - File-based CMS build with CodeIgniter Framework.
+- [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
 
 ## Laravel
 - [Avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn initial name into beautiful avatar.
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara.
 - [Pingpong Admin](https://github.com/pingpong-labs/admin) - Laravel 5 Admin.
+- [Absis](https://github.com/smpn1smg/absis) - Sistem Akademik K13/KTSP Berbasis Web.
 
 ## Slim
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment.
