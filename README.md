@@ -37,6 +37,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Books
 - [Free Programming Books Indonesia](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-id.md) - Freely available programming books.
+- [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 
 ## Content Management System
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara.
@@ -73,7 +74,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Learn
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
 - [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
-- [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 
 ## Pentest
 - [Who Wrote This Shit](https://github.com/geovedi/who-wrote-this-shit) - Simple demonstration forensic linguistics program analysing a document.
