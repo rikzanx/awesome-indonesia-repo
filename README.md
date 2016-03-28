@@ -103,3 +103,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Miscellaneous
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme style Mac OSX Lion.
 - [Dotfiles Custom DE Linux](https://github.com/riefachan/dotfiles) - (Customize Linux) Solid and Flat Custom DE Linux.
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
