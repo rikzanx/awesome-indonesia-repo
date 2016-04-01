@@ -80,7 +80,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## PHP
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
-- [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - SimpleExcel.php - Easily parse / convert / write any Microsoft Excel.
+- [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
 
 ## CodeIgniter
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
@@ -101,7 +101,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Auto Complete Python](https://github.com/sadovnychyi/autocomplete-python) - Jedi based Python autocomplete for Atom.
 
 ## Miscellaneous
-- [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme style Mac OSX Lion.
+- [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [Dotfiles Custom DE Linux](https://github.com/riefachan/dotfiles) - (Customize Linux) Solid and Flat Custom DE Linux.
 
 ## Community
