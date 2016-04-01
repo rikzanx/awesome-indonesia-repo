@@ -46,7 +46,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Databases
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
- 
+
 ## Framework
 - [Panada](https://github.com/panada/Panada) - High performance PHP development framework, yet simple.
 
@@ -55,6 +55,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
+- [Sizle](https://github.com/christoga/sizle) - Size styler using jQuery
+
 
 ## Game
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using angular.js and firebase.
