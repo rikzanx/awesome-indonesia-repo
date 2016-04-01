@@ -27,6 +27,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 	- [Slim](#slim)
 - [Python](#python)
 - [Miscellaneous](#miscellaneous)
+- [Community](#community)
 
 ## Android
 - [Android StepsView](https://github.com/anton46/Android-StepsView) - Android-StepsView.
@@ -103,6 +104,20 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Miscellaneous
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme style Mac OSX Lion.
 - [Dotfiles Custom DE Linux](https://github.com/riefachan/dotfiles) - (Customize Linux) Solid and Flat Custom DE Linux.
+
+## Community
+- [Komunitas Git Indonesia](https://github.com/GitIndonesia)
+- [PHP Indonesia](https://github.com/phpindonesia)
+- [CodeIgniter Indonesia](https://github.com/codeigniter-id)
+- [Laravel Indonesia](https://github.com/laravel-indonesia)
+- [Id-Laravel](https://github.com/id-laravel)
+- [Symfonian Indonesia](https://github.com/SymfonyId)
+- [Komunitas Pengguna Go Indonesia](https://github.com/golang-id)
+- [Python Indonesia](https://github.com/id-python)
+- [Jakarta JavaScript User Group](https://github.com/jakartajs)
+- [React JS Indonesia](https://github.com/reactjs-id)
+- [Nginx Indonesia](https://github.com/NginxID)
+- [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
 
 ## License
 
