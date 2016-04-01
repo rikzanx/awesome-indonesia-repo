@@ -35,7 +35,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
 
-
 ## Books
 - [Free Programming Books Indonesia](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-id.md) - Freely available programming books with Indonesia Language.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
