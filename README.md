@@ -55,7 +55,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
-- [Sizle](https://github.com/christoga/sizle) - Size styler using jQuery
 
 
 ## Game
@@ -103,7 +102,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Python
 - [Auto Complete Python](https://github.com/sadovnychyi/autocomplete-python) - Jedi based Python autocomplete for Atom.
-- [Exit.py](https://github.com/christoga/exit.py) - Python tool for exiting program.
 
 
 ## Miscellaneous
