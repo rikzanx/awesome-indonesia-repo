@@ -73,7 +73,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Jekyll Theme
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll themes use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - A Light contrast of Jekyll theme.
-- [Jekyll Material Design](https://github.com/christoga/blog) - Material Design interfaces for Jekyll.
+- [Jekyll Material](https://github.com/christoga/blog) - Material Design interfaces for Jekyll.
 
 ## Learn
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
