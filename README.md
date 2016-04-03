@@ -69,14 +69,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
 
 ## Jekyll Theme
-<<<<<<< HEAD
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll themes use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - A Light contrast of Jekyll theme.
 - [Jekyll Material](https://github.com/christoga/blog) - Material Design interfaces for Jekyll.
-=======
-- [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
-- [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
->>>>>>> 3ce79cfc08254002c24642174f1bc5a5c5a8794e
 
 ## Learn
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
