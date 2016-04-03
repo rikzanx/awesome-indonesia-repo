@@ -55,6 +55,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
 
+
 ## Game
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using angular.js and firebase.
 
@@ -68,8 +69,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
 
 ## Jekyll Theme
-- [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
-- [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
+- [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll themes use Material Design Lite.
+- [Mangan](https://github.com/dikiaap/mangan) - A Light contrast of Jekyll theme.
+- [Jekyll Material](https://github.com/christoga/blog) - Material Design interfaces for Jekyll.
 
 ## Learn
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
@@ -99,6 +101,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Python
 - [Auto Complete Python](https://github.com/sadovnychyi/autocomplete-python) - Jedi based Python autocomplete for Atom.
+
 
 ## Miscellaneous
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
