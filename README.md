@@ -35,9 +35,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
 
-
 ## Books
-- [Free Programming Books Indonesia](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-id.md) - Freely available programming books.
+- [Free Programming Books Indonesia](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-id.md) - Freely available programming books with Indonesia Language.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 
 ## Content Management System
@@ -62,7 +61,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## JavaScript
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
-- [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery Calx - a jQuery plugin for creating formula-based calculation.
+- [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
 - [JVFloat.js](https://github.com/maman/JVFloat.js) - jQuery / Zepto plugin to emulate Matt D. Smith's floating placeholder text.
 - [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime Javascript Boilerplate base on Meteor Js Framework.
 - [SimpleExcel.js](https://github.com/faisalman/simple-excel-js) - Client-side script to easily parse / convert / write any Microsoft Excel.
@@ -70,20 +69,25 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
 
 ## Jekyll Theme
+<<<<<<< HEAD
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll themes use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - A Light contrast of Jekyll theme.
 - [Jekyll Material](https://github.com/christoga/blog) - Material Design interfaces for Jekyll.
+=======
+- [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
+- [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
+>>>>>>> 3ce79cfc08254002c24642174f1bc5a5c5a8794e
 
 ## Learn
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
 - [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
 
 ## Pentest
-- [Who Wrote This Shit](https://github.com/geovedi/who-wrote-this-shit) - Simple demonstration forensic linguistics program analysing a document.
+- [Who Wrote This Sh*t](https://github.com/geovedi/who-wrote-this-shit) - Simple demonstration forensic linguistics program analysing a document.
 
 ## PHP
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
-- [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - SimpleExcel.php - Easily parse / convert / write any Microsoft Excel.
+- [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
 
 ## CodeIgniter
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
@@ -91,7 +95,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
 
 ## Laravel
-- [Avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn initial name into beautiful avatar.
+- [Avatar](https://github.com/laravolt/avatar) - Plug and play avatar, turn initial name into beautiful avatar.
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara.
 - [Pingpong Admin](https://github.com/pingpong-labs/admin) - Laravel 5 Admin.
 - [Absis](https://github.com/smpn1smg/absis) - Sistem Akademik K13/KTSP Berbasis Web.
@@ -105,7 +109,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 
 ## Miscellaneous
-- [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme style Mac OSX Lion.
+- [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [Dotfiles Custom DE Linux](https://github.com/riefachan/dotfiles) - (Customize Linux) Solid and Flat Custom DE Linux.
 
 ## Community
@@ -123,7 +127,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
 
 ## License
-
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
