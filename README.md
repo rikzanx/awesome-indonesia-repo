@@ -1,5 +1,9 @@
-Awesome Indonesia Repo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Indonesia Repo
 ===============
+
+| Awesome | Chat | Country |
+| ------- | ---- | ------- |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | [![Gitter](https://badges.gitter.im/GitIndonesia/awesome-indonesia-repo.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) | ![Country](https://img.shields.io/badge/⚐-indonesia-red.svg) |
 
 A curated list of amazingly awesome repository created and contributed by Indonesian people.
 
@@ -104,7 +108,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 
 ## PHP
-- [PHP-BOOTSTRAP](https://github.com/Harazaki/PHP-BOOTSTRAP) - Simple design templates' framework together with the famous bootstrap.
+
+- [PHP-BOOTSTRAP](https://github.com/Harazaki/PHP-BOOTSTRAP) - Simple design templates framework together with the famous bootstrap.
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
 - [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
 
