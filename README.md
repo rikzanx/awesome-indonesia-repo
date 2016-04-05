@@ -3,7 +3,7 @@ Awesome Indonesia Repo
 
 | Awesome | Chat | Country |
 | ------- | ---- | ------- |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | [![Gitter](https://badges.gitter.im/GitIndonesia/awesome-indonesia-repo.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo) | ![Country](https://img.shields.io/badge/⚐-indonesia-red.svg) |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | [![Gitter](https://badges.gitter.im/GitIndonesia/awesome-indonesia-repo.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo) | [![Country](https://img.shields.io/badge/country-indonesia-green.svg?style=social)](#) |
 
 A curated list of amazingly awesome repository created and contributed by Indonesian people.
 
