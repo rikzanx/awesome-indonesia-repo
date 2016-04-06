@@ -1,7 +1,7 @@
 Awesome Indonesia Repo
 ===============
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/)
 [![TravisCI](https://api.travis-ci.org/GitIndonesia/awesome-indonesia-repo.svg)](https://travis-ci.org/GitIndonesia/awesome-indonesia-repo)
 [![Gitter](https://badges.gitter.im/GitIndonesia/awesome-indonesia-repo.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
@@ -118,14 +118,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## CodeIgniter
 
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
-- [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - File-based CMS build with CodeIgniter Framework.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
 
 
 ## Laravel
 
 - [Avatar](https://github.com/laravolt/avatar) - Plug and play avatar, turn initial name into beautiful avatar.
-- [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara.
 - [Pingpong Admin](https://github.com/pingpong-labs/admin) - Laravel 5 Admin.
 - [Absis](https://github.com/smpn1smg/absis) - Sistem Akademik K13/KTSP Berbasis Web.
 
@@ -165,6 +163,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## License
 
-[![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
