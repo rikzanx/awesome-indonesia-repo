@@ -38,7 +38,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Android
 
-- [Android StepsView](https://github.com/anton46/Android-StepsView) - Android-StepsView.
+- [Android StepsView](https://github.com/anton46/Android-StepsView) - A simple progress steps view on Android.
 - [WhatsApp ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style.
 - [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
@@ -76,7 +76,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Game
 
-- [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using angular.js and firebase.
+- [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
 
 
 ## JavaScript
@@ -84,7 +84,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 - [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
 - [JVFloat.js](https://github.com/maman/JVFloat.js) - jQuery / Zepto plugin to emulate Matt D. Smith's floating placeholder text.
-- [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime Javascript Boilerplate base on Meteor Js Framework.
+- [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime Javascript Boilerplate base on MeteorJS Framework.
 - [SimpleExcel.js](https://github.com/faisalman/simple-excel-js) - Client-side script to easily parse / convert / write any Microsoft Excel.
 - [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
