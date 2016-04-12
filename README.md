@@ -55,6 +55,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara.
 - [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - File-based CMS build with CodeIgniter Framework.
+- [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
+- [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
+- [Wayang CMS](https://github.com/Wayang-CMS/WayangCMS) - Wayang CMS is Open Source CMS made in Indonesia.
 
 
 ## Databases
