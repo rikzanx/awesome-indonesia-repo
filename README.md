@@ -31,6 +31,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 	- [CodeIgniter](#codeigniter)
 	- [Laravel](#laravel)
 	- [Slim](#slim)
+	- [Yii](#yii)
 - [Plugin](#plugin)
 - [Python](#python)
 - [Miscellaneous](#miscellaneous)
@@ -95,6 +96,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [jQuery Awesome Sosmed Share Button](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button) - Awesome social media button with share count.
 - [Kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript.
 - [Esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+- [PHUNT](https://github.com/Kristories/phunt) - Product Hunt Command Line Client.
 
 
 ## Jekyll Theme
@@ -122,6 +124,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
 - [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
 - [Membership PHP Indonesia](https://github.com/phpindonesia/phpindonesia.or.id-membership2) - Membership Application for PHP Indonesia.
+- [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
 
 
 ## CodeIgniter
@@ -142,6 +145,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment.
 - [Boilerplate Slim 3] (https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework.
+
+
+## Yii
+
+- [Yii2 Admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager).
 
 
 ## Plugin
