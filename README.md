@@ -31,6 +31,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 	- [CodeIgniter](#codeigniter)
 	- [Laravel](#laravel)
 	- [Slim](#slim)
+- [Plugin](#plugin)
 - [Python](#python)
 - [Miscellaneous](#miscellaneous)
 - [Community](#community)
@@ -88,6 +89,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [SimpleExcel.js](https://github.com/faisalman/simple-excel-js) - Client-side script to easily parse / convert / write any Microsoft Excel.
 - [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
+- [jQuery Awesome Sosmed Share Button](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button) - Awesome social media button with share count.
+- [Kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript.
+- [Esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 
 
 ## Jekyll Theme
@@ -101,6 +105,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
 - [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
+- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
 
 
 ## Pentest
@@ -113,6 +118,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [PHP-BOOTSTRAP](https://github.com/Harazaki/PHP-BOOTSTRAP) - Simple design templates framework together with the famous bootstrap.
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
 - [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
+- [Membership PHP Indonesia](https://github.com/phpindonesia/phpindonesia.or.id-membership2) - Membership Application for PHP Indonesia.
 
 
 ## CodeIgniter
@@ -126,12 +132,18 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Avatar](https://github.com/laravolt/avatar) - Plug and play avatar, turn initial name into beautiful avatar.
 - [Pingpong Admin](https://github.com/pingpong-labs/admin) - Laravel 5 Admin.
 - [Absis](https://github.com/smpn1smg/absis) - Sistem Akademik K13/KTSP Berbasis Web.
+- [AppRocket PreProject](https://github.com/rahmatawaludin/approcket-preproject) - Contoh aplikasi CRUD dengan Laravel 5.2.
 
 
 ## Slim
 
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment.
 - [Boilerplate Slim 3] (https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework.
+
+
+## Plugin
+
+- [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
 
 
 ## Python
