@@ -23,3 +23,9 @@ tricks for the ones you already use.
 | [@mzpsh](https://github.com/mzpsh) | My personal tint2 config | [https://github.com/mzpsh/tint2-configs](//github.com/mzpsh/tint2-configs) |
 | [@mul14](https://github.com/mul14) | My personal dot files | [https://github.com/mul14/dotfiles](//github.com/mul14/dotfiles) |
 | [@byeka](https://github.com/byeka) | dot | [https://github.com/byeka/dot](//github.com/byeka/dot) |
+| [@nullrndtx](https://github.com/nullrndtx) | My arch desktop config | [https://github.com/nullrndtx/dotfiles](//github.com/nullrndtx/dotfiles) |
+| [@rahmatawaludin](https://github.com/rahmatawaludin) | Init vim | [https://dropbox.com/.../init.vim](//www.dropbox.com/s/2fm0htpchpyaw4h/init.vim) |
+| [@donnykurnia](https://github.com/donnykurnia) | Vim configuration directory | [https://github.com/donnykurnia/dotvim](//github.com/donnykurnia/dotvim) |
+| [@renodesper](https://github.com/renodesper) | Kumpulan dotfiles yang saya miliki | [https://github.com/renodesper/dotfiles](//github.com/renodesper/dotfiles) |
+| [@yeripratama](https://github.com/yeripratama) | My personal dotfiles | [https://github.com/yeripratama/dotfiles](//github.com/yeripratama/dotfiles) |
+| [@mirzalazuardi](https://github.com/mirzalazuardi) | Vimrc for Server | [https://github.com/mirzalazuardi/vimrc-server](//github.com/mirzalazuardi/vimrc-server) |
