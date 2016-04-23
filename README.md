@@ -35,6 +35,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Plugin](#plugin)
 - [Python](#python)
 - [Miscellaneous](#miscellaneous)
+    - [dotfiles](dotfiles.md)
 - [Community](#community)
 
 
