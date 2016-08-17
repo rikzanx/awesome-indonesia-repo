@@ -142,7 +142,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Avatar](https://github.com/laravolt/avatar) - Plug and play avatar, turn initial name into beautiful avatar.
 - [Pingpong Admin](https://github.com/pingpong-labs/admin) - Laravel 5 Admin.
 - [Absis](https://github.com/smpn1smg/absis) - Sistem Akademik K13/KTSP Berbasis Web.
-- [AppRocket PreProject](https://github.com/rahmatawaludin/approcket-preproject) - Contoh aplikasi CRUD dengan Laravel 5.2.
+- [AppRocket PreProject](https://github.com/rawaludin/approcket-preproject) - Contoh aplikasi CRUD dengan Laravel 5.2.
 
 
 ## Slim
@@ -191,4 +191,4 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

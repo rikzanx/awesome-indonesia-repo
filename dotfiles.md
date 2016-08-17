@@ -22,10 +22,10 @@ tricks for the ones you already use.
 | [@byohka](https://github.com/byohka) | Yui-chan dotfiles | [https://github.com/byohka/dotfiles](//github.com/byohka/dotfiles) |
 | [@mzpsh](https://github.com/mzpsh) | My personal tint2 config | [https://github.com/mzpsh/tint2-configs](//github.com/mzpsh/tint2-configs) |
 | [@mul14](https://github.com/mul14) | My personal dot files | [https://github.com/mul14/dotfiles](//github.com/mul14/dotfiles) |
-| [@byeka](https://github.com/byeka) | dot | [https://github.com/byeka/dot](//github.com/byeka/dot) |
+| [@eputra](https://github.com/eputra) | dot | [https://github.com/eputra/dot](//github.com/eputra/dot) |
 | [@nullrndtx](https://github.com/nullrndtx) | My arch desktop config | [https://github.com/nullrndtx/dotfiles](//github.com/nullrndtx/dotfiles) |
-| [@rahmatawaludin](https://github.com/rahmatawaludin) | Init vim | [https://dropbox.com/.../init.vim](//www.dropbox.com/s/2fm0htpchpyaw4h/init.vim) |
+| [@rawaludin](https://github.com/rawaludin) | Init vim | [https://dropbox.com/.../init.vim](//www.dropbox.com/s/2fm0htpchpyaw4h/init.vim) |
 | [@donnykurnia](https://github.com/donnykurnia) | Vim configuration directory | [https://github.com/donnykurnia/dotvim](//github.com/donnykurnia/dotvim) |
 | [@renodesper](https://github.com/renodesper) | Kumpulan dotfiles yang saya miliki | [https://github.com/renodesper/dotfiles](//github.com/renodesper/dotfiles) |
-| [@yeripratama](https://github.com/yeripratama) | My personal dotfiles | [https://github.com/yeripratama/dotfiles](//github.com/yeripratama/dotfiles) |
+| [@pirey](https://github.com/pirey) | My personal dotfiles | [https://github.com/pirey/dotfiles](//github.com/pirey/dotfiles) |
 | [@mirzalazuardi](https://github.com/mirzalazuardi) | Vimrc for Server | [https://github.com/mirzalazuardi/vimrc-server](//github.com/mirzalazuardi/vimrc-server) |
