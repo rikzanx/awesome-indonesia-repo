@@ -115,6 +115,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
 - [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blog of startup and enterprise company.
+- [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
 
 
 ## Pentest
