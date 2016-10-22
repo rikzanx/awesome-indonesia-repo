@@ -34,6 +34,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 	- [Yii](#yii)
 - [Plugin](#plugin)
 - [Python](#python)
+- [Natural Language Processing](#natural-language-processing)
 - [Miscellaneous](#miscellaneous)
     - [dotfiles](dotfiles.md)
 - [Community](#community)
@@ -126,7 +127,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## PHP
 
 - [PHP-BOOTSTRAP](https://github.com/Harazaki/PHP-BOOTSTRAP) - Simple design templates framework together with the famous bootstrap.
-- [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
 - [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
 - [Membership PHP Indonesia](https://github.com/phpindonesia/phpindonesia.or.id-membership2) - Membership Application for PHP Indonesia.
 - [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
@@ -164,7 +164,13 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Python
 
-- [Auto Complete Python](https://github.com/sadovnychyi/autocomplete-python) - Jedi based Python autocomplete for Atom.
+- [Auto Complete Python](https://github.com/autocomplete-python/autocomplete-python) - Jedi based Python autocomplete for Atom.
+
+## Natural Language Processing
+
+- [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
+- [SentiStrengthID](https://github.com/masdevid/SentiStrengthID) - Sentiment Strength Detection in Bahasa Indonesia.
+
 
 
 ## Miscellaneous
