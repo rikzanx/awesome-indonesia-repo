@@ -47,6 +47,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
 - [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
 - [android-base-mvp](https://github.com/derohimat/android-base-mvp) - Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP
+- [RxDownloader](https://github.com/esafirm/RxDownloader) - An Rx wrapper for Download Manager in Android
 
 
 ## Books
