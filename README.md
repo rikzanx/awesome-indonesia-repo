@@ -46,6 +46,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
 - [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
+- [android-base-mvp](https://github.com/derohimat/android-base-mvp) - Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP
 
 
 ## Books
