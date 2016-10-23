@@ -178,6 +178,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Miscellaneous
 
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
+- [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 
 
 ## Community
