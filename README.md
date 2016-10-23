@@ -28,11 +28,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Learn](#learn)
 - [Pentest](#pentest)
 - [PHP](#php)
-
-- [CodeIgniter](#codeigniter)
-- [Laravel](#laravel)
-- [Slim](#slim)
-- [Yii](#yii)
 	- [CodeIgniter](#codeigniter)
 	- [Laravel](#laravel)
 	- [Slim](#slim)
@@ -42,7 +37,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Python](#python)
 - [Natural Language Processing](#natural-language-processing)
 - [Miscellaneous](#miscellaneous)
-- [dotfiles](dotfiles.md)
+    - [dotfiles](dotfiles.md)
 - [Community](#community)
 
 
