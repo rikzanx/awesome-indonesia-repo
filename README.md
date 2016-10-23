@@ -31,6 +31,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 	- [CodeIgniter](#codeigniter)
 	- [Laravel](#laravel)
 	- [Slim](#slim)
+	- [Symfony](#symfony)
 	- [Yii](#yii)
 - [Plugin](#plugin)
 - [Python](#python)
@@ -152,6 +153,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment.
 - [Boilerplate Slim 3] (https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework.
+
+
+## Symfony
+
+- [Symfonian Indonesia AdminBundle](https://github.com/SymfonyId/AdminBundle) - Admin Bundle with Symfony Framework
 
 
 ## Yii
