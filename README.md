@@ -194,6 +194,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [React JS Indonesia](https://github.com/reactjs-id)
 - [Nginx Indonesia](https://github.com/NginxID)
 - [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
+- [Haskell Indonesia](https://github.com/haskell-id)
 
 
 ## License
