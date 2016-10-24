@@ -31,6 +31,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 	- [CodeIgniter](#codeigniter)
 	- [Laravel](#laravel)
 	- [Slim](#slim)
+	- [Symfony](#symfony)
 	- [Yii](#yii)
 - [Plugin](#plugin)
 - [Python](#python)
@@ -119,6 +120,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
 - [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blog of startup and enterprise company.
 - [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
+- [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
 
 
 ## Pentest
@@ -154,6 +156,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Boilerplate Slim 3] (https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework.
 
 
+## Symfony
+
+- [Symfonian Indonesia AdminBundle](https://github.com/SymfonyId/AdminBundle) - Admin Bundle with Symfony Framework
+
+
 ## Yii
 
 - [Yii2 Admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager).
@@ -178,6 +185,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Miscellaneous
 
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
+- [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 
 
 ## Community
@@ -194,6 +202,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [React JS Indonesia](https://github.com/reactjs-id)
 - [Nginx Indonesia](https://github.com/NginxID)
 - [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
+- [Django Indonesia](https://github.com/django-id)
 - [Haskell Indonesia](https://github.com/haskell-id)
 
 
