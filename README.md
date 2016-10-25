@@ -23,6 +23,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Framework](#framework)
 - [Front-end Development](#front-end-development)
 - [Game](#game)
+- [GO](#go)
 - [JavaScript](#javascript)
 - [Jekyll Theme](#jekyll-theme)
 - [Learn](#learn)
@@ -94,6 +95,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Game
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
+
+
+## Go
+
+- [unzipall](https://github.com/gedex/unzipall) - Unzip all zip files in src directory to dst directory.
+- [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
 
 
 ## JavaScript
