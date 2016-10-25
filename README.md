@@ -58,6 +58,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Free Programming Books Indonesia](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-id.md) - Freely available programming books with Indonesia Language.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
+- [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - E-Library yang berisi kumpulan E-Book tentang dunia IT.
 
 
 ## Content Management System
