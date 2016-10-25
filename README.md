@@ -208,6 +208,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Nginx Indonesia](https://github.com/NginxID)
 - [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
 - [Django Indonesia](https://github.com/django-id)
+- [Haskell Indonesia](https://github.com/haskell-id)
+
 
 ## License
 
