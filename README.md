@@ -209,6 +209,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
 - [Django Indonesia](https://github.com/django-id)
 - [Haskell Indonesia](https://github.com/haskell-id)
+- [Indonesian Ruby Community](https://github.com/id-ruby)
 
 
 ## License
