@@ -47,6 +47,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WhatsApp ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style.
 - [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
+- [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
+- [android-base-mvp](https://github.com/derohimat/android-base-mvp) - Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP
+- [RxDownloader](https://github.com/esafirm/RxDownloader) - An Rx wrapper for Download Manager in Android
+- [ImageEffectFilter](https://github.com/mnafian/ImageEffectFilter) - Android image filter processing sample using layer drawable and effect factory android.
 
 
 ## Books
