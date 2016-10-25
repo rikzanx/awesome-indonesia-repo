@@ -109,6 +109,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript.
 - [Esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [PHUNT](https://github.com/Kristories/phunt) - Product Hunt Command Line Client.
+- [vuejs2 starter](https://github.com/BosNaufal/vue2-starter) - Simple Vue 2 Starter for single page application with Vuex and Vue Router.
 
 
 ## Jekyll Theme
