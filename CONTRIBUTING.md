@@ -13,4 +13,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar (English & Indonesia)
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
-- Time to opened PR!
+- Time to open your PR!
