@@ -191,7 +191,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Python
 
-- [Auto Complete Python](https://github.com/autocomplete-python/autocomplete-python) - Jedi based Python autocomplete for Atom.
+- [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph
+
 
 ## Natural Language Processing
 
