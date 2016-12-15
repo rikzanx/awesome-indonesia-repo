@@ -166,6 +166,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Pingpong Admin](https://github.com/pingpong-labs/admin) - Laravel 5 Admin.
 - [Absis](https://github.com/smpn1smg/absis) - Sistem Akademik K13/KTSP Berbasis Web.
 - [AppRocket PreProject](https://github.com/rawaludin/approcket-preproject) - Contoh aplikasi CRUD dengan Laravel 5.2.
+- [Laravel Circuit Breaker](https://github.com/rymanalu/laravel-circuit-breaker) - Circuit Breaker pattern implementation in Laravel 5.
+- [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - Simple file uploader for Laravel 5.
 
 
 ## Slim
