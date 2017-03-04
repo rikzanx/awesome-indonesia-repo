@@ -54,7 +54,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [ImageEffectFilter](https://github.com/mnafian/ImageEffectFilter) - Android image filter processing sample using layer drawable and effect factory android.
 - [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - React native credit card display component.
 - [Android Color Picker](https://github.com/yukuku/ambilwarna) - To customize the color of some background, text, or maybe for a painting application where the user can select different colors for painting or filling.
-- [ImagePicker](https://github.com/esafirm/android-image-picker) - A configureable library to select image from gallery and camera without the hassle
+- [ImagePicker](https://github.com/esafirm/android-image-picker) - A configureable library to select image from gallery and camera without the hassle.
 
 ## Books
 
@@ -66,7 +66,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Content Management System
 
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara.
-- [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) - File-based CMS build with CodeIgniter Framework.
+- [Pusaka CMS](https://github.com/codepolitanlab/pusakacms) - File-based CMS build with CodeIgniter Framework.
 - [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
 - [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
 - [Wayang CMS](https://github.com/Wayang-CMS/WayangCMS) - Wayang CMS is Open Source CMS made in Indonesia.
@@ -205,6 +205,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
+- [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
 
 
 ## Community
