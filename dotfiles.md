@@ -18,8 +18,7 @@ tricks for the ones you already use.
 | [@dikiaap](https://github.com/dikiaap) | Web Developer dotfiles | [https://github.com/dikiaap/dotfiles](//github.com/dikiaap/dotfiles) |
 | [@feryardiant](https://github.com/feryardiant) | Just my dotfiles | [https://github.com/feryardiant/dotfiles](//github.com/feryardiant/dotfiles) |
 | [@nmfzone](https://github.com/nmfzone) | Amazing dotfiles in my environment | [https://github.com/nmfzone/dotfiles](//github.com/nmfzone/dotfiles) |
-| [@1hara](https://github.com/1hara) | Solid and flat custom DE on Linux | [https://github.com/1hara/dotfiles](//github.com/1hara/dotfiles) |
-| [@byohka](https://github.com/byohka) | Yui-chan dotfiles | [https://github.com/byohka/dotfiles](//github.com/byohka/dotfiles) |
+| [@codeharuka](https://github.com/codeharuka) | Solid and flat custom DE on Linux | [https://github.com/codeharuka/dotfiles](//github.com/codeharuka/dotfiles) |
 | [@mzpsh](https://github.com/mzpsh) | My personal tint2 config | [https://github.com/mzpsh/tint2-configs](//github.com/mzpsh/tint2-configs) |
 | [@mul14](https://github.com/mul14) | My personal dot files | [https://github.com/mul14/dotfiles](//github.com/mul14/dotfiles) |
 | [@eputra](https://github.com/eputra) | dot | [https://github.com/eputra/dot](//github.com/eputra/dot) |
@@ -29,4 +28,4 @@ tricks for the ones you already use.
 | [@renodesper](https://github.com/renodesper) | Kumpulan dotfiles yang saya miliki | [https://github.com/renodesper/dotfiles](//github.com/renodesper/dotfiles) |
 | [@pirey](https://github.com/pirey) | My personal dotfiles | [https://github.com/pirey/dotfiles](//github.com/pirey/dotfiles) |
 | [@mirzalazuardi](https://github.com/mirzalazuardi) | Vimrc for Server | [https://github.com/mirzalazuardi/vimrc-server](//github.com/mirzalazuardi/vimrc-server) |
-| [@lidilidian](https://github.com/lidilidian) | My Personal (.) files | [https://github.com/Lidilidian/dotfiles](//github.com/Lidilidian/dotfiles) |
+| [@lidilidian](https://github.com/lidilidian) | My Personal (.) files | [https://github.com/Lidilidian/configuration](//github.com/Lidilidian/configuration) |
