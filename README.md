@@ -127,7 +127,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
-- [Jekyll Material](https://github.com/christoga/blog) - Material Design interfaces for Jekyll.
 
 
 ## Learn
