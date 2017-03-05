@@ -220,6 +220,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Komunitas Pengguna Go Indonesia](https://github.com/golang-id)
 - [Python Indonesia](https://github.com/id-python)
 - [Jakarta JavaScript User Group](https://github.com/jakartajs)
+- [Bali JavaScript Community](https://github.com/balijs)
 - [React JS Indonesia](https://github.com/reactjs-id)
 - [Nginx Indonesia](https://github.com/NginxID)
 - [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
