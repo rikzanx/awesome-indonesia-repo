@@ -170,12 +170,13 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [AppRocket PreProject](https://github.com/rawaludin/approcket-preproject) - Contoh aplikasi CRUD dengan Laravel 5.2.
 - [Laravel Circuit Breaker](https://github.com/rymanalu/laravel-circuit-breaker) - Circuit Breaker pattern implementation in Laravel 5.
 - [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - Simple file uploader for Laravel 5.
+- [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Generate a new model factory using Artisan command.
 
 
 ## Slim
 
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment.
-- [Boilerplate Slim 3] (https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework.
+- [Boilerplate Slim 3](https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework.
 
 
 ## Symfony
