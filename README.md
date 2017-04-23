@@ -6,7 +6,8 @@ Awesome Indonesia Repo
 [![Gitter](https://badges.gitter.im/GitIndonesia/awesome-indonesia-repo.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
-A curated list of amazingly awesome repository created and contributed by Indonesian people.
+A curated list of amazingly awesome repository created and contributed by Indonesian people.<br>
+It aims to inspire what has been made by Indonesian people and hopefully can give you encouragement to contribute in Open-source software.
 
 Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
