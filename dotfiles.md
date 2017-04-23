@@ -18,7 +18,6 @@ tricks for the ones you already use.
 | [@dikiaap](https://github.com/dikiaap) | Web Developer dotfiles | [https://github.com/dikiaap/dotfiles](//github.com/dikiaap/dotfiles) |
 | [@feryardiant](https://github.com/feryardiant) | Just my dotfiles | [https://github.com/feryardiant/dotfiles](//github.com/feryardiant/dotfiles) |
 | [@nmfzone](https://github.com/nmfzone) | Amazing dotfiles in my environment | [https://github.com/nmfzone/dotfiles](//github.com/nmfzone/dotfiles) |
-| [@codeharuka](https://github.com/codeharuka) | Solid and flat custom DE on Linux | [https://github.com/codeharuka/dotfiles](//github.com/codeharuka/dotfiles) |
 | [@mzpsh](https://github.com/mzpsh) | My personal tint2 config | [https://github.com/mzpsh/tint2-configs](//github.com/mzpsh/tint2-configs) |
 | [@mul14](https://github.com/mul14) | My personal dot files | [https://github.com/mul14/dotfiles](//github.com/mul14/dotfiles) |
 | [@eputra](https://github.com/eputra) | dot | [https://github.com/eputra/dot](//github.com/eputra/dot) |
