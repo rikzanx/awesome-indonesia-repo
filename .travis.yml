@@ -5,4 +5,4 @@ before_script:
   - gem install awesome_bot
 script:
   - awesome_bot README.md
-  - awesome_bot dotfiles.md --white-list dropbox
+  - awesome_bot dotfiles.md
