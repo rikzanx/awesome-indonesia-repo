@@ -22,7 +22,7 @@ tricks for the ones you already use.
 | [@mul14](https://github.com/mul14) | My personal dot files | [https://github.com/mul14/dotfiles](//github.com/mul14/dotfiles) |
 | [@eputra](https://github.com/eputra) | dot | [https://github.com/eputra/dot](//github.com/eputra/dot) |
 | [@nullrndtx](https://github.com/nullrndtx) | My arch desktop config | [https://github.com/nullrndtx/dotfiles](//github.com/nullrndtx/dotfiles) |
-| [@rawaludin](https://github.com/rawaludin) | Init vim | [https://dropbox.com/.../init.vim](//www.dropbox.com/s/2fm0htpchpyaw4h/init.vim) |
+| [@rawaludin](https://github.com/rawaludin) | dotfiles for OS X machine | [https://github.com/rawaludin/dotfiles](//github.com/rawaludin/dotfiles) |
 | [@donnykurnia](https://github.com/donnykurnia) | Vim configuration directory | [https://github.com/donnykurnia/dotvim](//github.com/donnykurnia/dotvim) |
 | [@renodesper](https://github.com/renodesper) | Kumpulan dotfiles yang saya miliki | [https://github.com/renodesper/dotfiles](//github.com/renodesper/dotfiles) |
 | [@pirey](https://github.com/pirey) | My personal dotfiles | [https://github.com/pirey/dotfiles](//github.com/pirey/dotfiles) |
