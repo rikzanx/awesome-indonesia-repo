@@ -15,11 +15,11 @@ tricks for the ones you already use.
 
 | Username | Description | Link |
 |----------|-------------|------|
-| [@dikiaap](https://github.com/dikiaap) | Web Developer dotfiles | [https://github.com/dikiaap/dotfiles](//github.com/dikiaap/dotfiles) |
+| [@dikiaap](https://github.com/dikiaap) | dotfiles for Web Developers | [https://github.com/dikiaap/dotfiles](//github.com/dikiaap/dotfiles) |
 | [@feryardiant](https://github.com/feryardiant) | Just my dotfiles | [https://github.com/feryardiant/dotfiles](//github.com/feryardiant/dotfiles) |
 | [@nmfzone](https://github.com/nmfzone) | Amazing dotfiles in my environment | [https://github.com/nmfzone/dotfiles](//github.com/nmfzone/dotfiles) |
 | [@mzpsh](https://github.com/mzpsh) | My personal tint2 config | [https://github.com/mzpsh/tint2-configs](//github.com/mzpsh/tint2-configs) |
-| [@mul14](https://github.com/mul14) | My personal dot files | [https://github.com/mul14/dotfiles](//github.com/mul14/dotfiles) |
+| [@mul14](https://github.com/mul14) | My personal dotfiles | [https://github.com/mul14/dotfiles](//github.com/mul14/dotfiles) |
 | [@eputra](https://github.com/eputra) | dot | [https://github.com/eputra/dot](//github.com/eputra/dot) |
 | [@nullrndtx](https://github.com/nullrndtx) | My arch desktop config | [https://github.com/nullrndtx/dotfiles](//github.com/nullrndtx/dotfiles) |
 | [@rawaludin](https://github.com/rawaludin) | dotfiles for OS X machine | [https://github.com/rawaludin/dotfiles](//github.com/rawaludin/dotfiles) |
