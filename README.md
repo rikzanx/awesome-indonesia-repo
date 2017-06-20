@@ -63,6 +63,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [CandyBar](https://github.com/danimahardhika/candybar-library) - Android icon pack dashboard library.
 - [WallpaperBoard](https://github.com/danimahardhika/wallpaperboard) - Android wallpaper dashboard library.
 - [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX Prototype of redesigned Nike+ Running App.
+- [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
 
 
 ## Books
