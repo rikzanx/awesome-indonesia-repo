@@ -26,6 +26,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Game](#game)
 - [GO](#go)
 - [JavaScript](#javascript)
+    - [Angular](#angular)
+    - [Express](#express)
+    - [Vue](#vue)
 - [Jekyll Theme](#jekyll-theme)
 - [Learn](#learn)
 - [Linux Software](#linux-software)
@@ -110,6 +113,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [unzipall](https://github.com/gedex/unzipall) - Unzip all zip files in src directory to dst directory.
 - [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
+- [Snowboard](https://github.com/subosito/snowboard) - API blueprint parser and renderer.
 
 
 ## JavaScript
@@ -120,13 +124,34 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime Javascript Boilerplate base on MeteorJS Framework.
 - [SimpleExcel.js](https://github.com/faisalman/simple-excel-js) - Client-side script to easily parse / convert / write any Microsoft Excel.
 - [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
-- [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
 - [jQuery Awesome Sosmed Share Button](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button) - Awesome social media button with share count.
 - [Kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript.
 - [Esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [PHUNT](https://github.com/Kristories/phunt) - Product Hunt Command Line Client.
+- [React Simple PWA](https://github.com/BosNaufal/react-simple-pwa) - Simple Progressive Web App Built with React Js.
+
+
+## Angular
+
+- [Angular Starter](https://github.com/antonybudianto/angular-starter) - Gulp Angular Starter using TypeScript.
+- [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, Tree-shaking, and Hot Module Reload.
+
+
+## Express
+
+- [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
+
+
+## Vue
+
 - [Vue 2 Starter](https://github.com/BosNaufal/vue2-starter) - Simple Vue 2 Starter for single page application with Vuex and Vue Router.
 - [Vue 2 Simplert](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired).
+- [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) - Vuejs + SoundCloud demo app.
+- [Vue Autocomplete](https://github.com/BosNaufal/vue-autocomplete) - Autocomplete Component for Vue.js.
+- [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) - Mini Online Shop Built With Vue.js.
+- [Vue Loading Bar](https://github.com/BosNaufal/vue-loading-bar) - Youtube Like Loading Bar Component for Vue.js.
+- [Vue 2 Loading Bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
+- [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) - Simple Progressive Web App Built with Vue.js.
 
 
 ## Jekyll Theme
@@ -160,6 +185,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
 - [Membership PHP Indonesia](https://github.com/phpindonesia/phpindonesia.or.id-membership2) - Membership Application for PHP Indonesia.
 - [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
+- [Terbilang](https://github.com/mul14/terbilang-php) - Convert numbers into words in Indonesian language.
 
 
 ## CodeIgniter
@@ -206,6 +232,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Python
 
 - [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph
+- [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
+- [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
 
 
 ## Natural Language Processing
