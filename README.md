@@ -28,6 +28,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [JavaScript](#javascript)
 - [Jekyll Theme](#jekyll-theme)
 - [Learn](#learn)
+- [Linux Software](#linux-software)
 - [PHP](#php)
     - [CodeIgniter](#codeigniter)
     - [Laravel](#laravel)
@@ -146,6 +147,13 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 
 
+## Linux Software
+
+- [KBBI Qt](https://github.com/bgli/kbbi-qt) - KBBI Qt adalah aplikasi Kamus Besar Bahasa Indonesia berbasis GUI.
+- [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme) - Quite dark Plank theme.
+- [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
+
+
 ## PHP
 
 - [PHP-BOOTSTRAP](https://github.com/Harazaki/PHP-BOOTSTRAP) - Simple design templates framework together with the famous bootstrap.
@@ -210,9 +218,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
-- [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
 - [List of Indonesian Telegram Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
-- [KBBI Qt](https://github.com/bgli/kbbi-qt) - KBBI Qt adalah aplikasi Kamus Besar Bahasa Indonesia berbasis GUI.
 
 ## Community
 
