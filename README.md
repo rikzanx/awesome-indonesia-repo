@@ -29,11 +29,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Jekyll Theme](#jekyll-theme)
 - [Learn](#learn)
 - [PHP](#php)
-	- [CodeIgniter](#codeigniter)
-	- [Laravel](#laravel)
-	- [Slim](#slim)
-	- [Symfony](#symfony)
-	- [Yii](#yii)
+    - [CodeIgniter](#codeigniter)
+    - [Laravel](#laravel)
+    - [Slim](#slim)
+    - [Symfony](#symfony)
+    - [Yii](#yii)
 - [Plugin](#plugin)
 - [Python](#python)
 - [Natural Language Processing](#natural-language-processing)
@@ -58,6 +58,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [CafeBar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use.
 - [CandyBar](https://github.com/danimahardhika/candybar-library) - Android icon pack dashboard library.
 - [WallpaperBoard](https://github.com/danimahardhika/wallpaperboard) - Android wallpaper dashboard library.
+- [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX Prototype of redesigned Nike+ Running App.
 
 ## Books
 
@@ -123,7 +124,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript.
 - [Esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [PHUNT](https://github.com/Kristories/phunt) - Product Hunt Command Line Client.
-- [vuejs2 starter](https://github.com/BosNaufal/vue2-starter) - Simple Vue 2 Starter for single page application with Vuex and Vue Router.
+- [Vue 2 Starter](https://github.com/BosNaufal/vue2-starter) - Simple Vue 2 Starter for single page application with Vuex and Vue Router.
+- [Vue 2 Simplert](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired).
 
 
 ## Jekyll Theme
@@ -141,6 +143,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
 - [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
 - [Docs vuejs id](https://github.com/vuejs-id/docs)- Dokumentasi Vue.js Bahasa Indonesia.
+- [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 
 
 ## PHP
@@ -166,6 +169,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Laravel Circuit Breaker](https://github.com/rymanalu/laravel-circuit-breaker) - Circuit Breaker pattern implementation in Laravel 5.
 - [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - Simple file uploader for Laravel 5.
 - [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Generate a new model factory using Artisan command.
+- [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.
+- [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 
 
 ## Slim
@@ -187,6 +192,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Plugin
 
 - [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
+- [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
 
 
 ## Python
@@ -203,8 +209,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
-- [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
+- [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
+- [List of Indonesian Telegram Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
+- [KBBI Qt](https://github.com/bgli/kbbi-qt) - KBBI Qt adalah aplikasi Kamus Besar Bahasa Indonesia berbasis GUI.
 
 ## Community
 
