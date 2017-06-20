@@ -21,6 +21,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Books](#books)
 - [Content Management System](#content-management-system)
 - [Databases](#databases)
+- [Dotfiles](dotfiles.md)
 - [Framework](#framework)
 - [Front-end Development](#front-end-development)
 - [Game](#game)
@@ -42,7 +43,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Python](#python)
 - [Natural Language Processing](#natural-language-processing)
 - [Miscellaneous](#miscellaneous)
-    - [dotfiles](dotfiles.md)
 - [Community](#community)
 
 
