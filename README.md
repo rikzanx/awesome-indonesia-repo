@@ -219,7 +219,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Symfony
 
 - [Symfonian Indonesia AdminBundle](https://github.com/SymfonyId/AdminBundle) - Admin Bundle with Symfony Framework.
-
+- [Tania](https://github.com/Tanibox/tania) - An open source farming management system.
 
 ## Yii
 
