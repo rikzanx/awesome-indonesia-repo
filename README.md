@@ -189,6 +189,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Membership PHP Indonesia](https://github.com/phpindonesia/phpindonesia.or.id-membership2) - Membership Application for PHP Indonesia.
 - [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
 - [Terbilang](https://github.com/mul14/terbilang-php) - Convert numbers into words in Indonesian language.
+- [SLiMS 8 Akasia](https://github.com/slims/slims8_akasia) - SLiMS is free open source software for library resources management and administration.
 
 
 ## CodeIgniter
