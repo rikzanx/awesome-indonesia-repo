@@ -154,6 +154,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Vue Loading Bar](https://github.com/BosNaufal/vue-loading-bar) - Youtube Like Loading Bar Component for Vue.js.
 - [Vue 2 Loading Bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) - Simple Progressive Web App Built with Vue.js.
+- [Explore Github](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
 
 
 ## Jekyll Theme
