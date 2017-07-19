@@ -58,7 +58,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [RxDownloader](https://github.com/esafirm/RxDownloader) - An Rx wrapper for Download Manager in Android.
 - [ImageEffectFilter](https://github.com/mnafian/ImageEffectFilter) - Android image filter processing sample using layer drawable and effect factory android.
 - [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - React native credit card display component.
-- [Android Color Picker](https://github.com/yukuku/ambilwarna) - To customize the color of some background, text, or maybe for a painting application where the user can select different colors for painting or filling.
+- [Android Color Picker](https://github.com/yukuku/ambilwarna) - To customize the color of some background, text, or maybe for a painting application.
 - [ImagePicker](https://github.com/esafirm/android-image-picker) - A configureable library to select image from gallery and camera without the hassle.
 - [CafeBar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use.
 - [CandyBar](https://github.com/danimahardhika/candybar-library) - Android icon pack dashboard library.
@@ -103,7 +103,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Panada](https://github.com/panada/Panada) - High performance PHP development framework, yet simple.
 - [Puko](https://github.com/Velliz/puko) - MVC Framework for quick and fast PHP Application Development.
-- [IGOS Nusantara Software Development Kit](https://github.com/ignsdk/ignsdk-qt) - A software development kit designed specifically for application developers in IGOS Nusantara.
+- [IGOS Nusantara SDK](https://github.com/ignsdk/ignsdk-qt) - A SDK designed specifically for application developers in IGOS Nusantara.
 - [EmeraldBox](https://github.com/femmerling/EmeraldBox) - EmeraldBox is a boilerplate framework for developing python web applications with database access.
 
 
@@ -178,7 +178,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
 - [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
-- [Docs vuejs id](https://github.com/vuejs-id/docs)- Dokumentasi Vue.js Bahasa Indonesia.
+- [Docs vuejs id](https://github.com/vuejs-id/docs) - Dokumentasi Vue.js Bahasa Indonesia.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 
 
@@ -214,7 +214,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Laravel Circuit Breaker](https://github.com/rymanalu/laravel-circuit-breaker) - Circuit Breaker pattern implementation in Laravel 5.
 - [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - Simple file uploader for Laravel 5.
 - [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Generate a new model factory using Artisan command.
-- [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.
+- [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di Indonesia.
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 
 
