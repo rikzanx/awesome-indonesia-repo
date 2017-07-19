@@ -74,6 +74,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blog of startup and enterprise company.
 - [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 
 
 ## Books
@@ -118,7 +119,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Game
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
-- [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange
+- [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
 
 
 ## Go
@@ -242,7 +243,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Python
 
-- [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph
+- [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
 
