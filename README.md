@@ -18,6 +18,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Table of Contents
 
 - [Android](#android)
+- [Awesome List](#awesome-list)
 - [Books](#books)
 - [Content Management System](#content-management-system)
 - [Databases](#databases)
@@ -64,6 +65,15 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WallpaperBoard](https://github.com/danimahardhika/wallpaperboard) - Android wallpaper dashboard library.
 - [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX Prototype of redesigned Nike+ Running App.
 - [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
+
+
+## Awesome List
+
+- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
+- [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, and third party.
+- [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blog of startup and enterprise company.
+- [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
+- [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 
 
 ## Books
@@ -154,7 +164,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Vue Loading Bar](https://github.com/BosNaufal/vue-loading-bar) - Youtube Like Loading Bar Component for Vue.js.
 - [Vue 2 Loading Bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) - Simple Progressive Web App Built with Vue.js.
-- [Explore Github](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
+- [Explore GitHub](https://github.com/mazipan/explore-github) - VueJS 2 GitHub Explorer Using API v3.
 
 
 ## Jekyll Theme
@@ -166,12 +176,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Learn
 
-- [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
 - [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
-- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
-- [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blog of startup and enterprise company.
 - [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
-- [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
 - [Docs vuejs id](https://github.com/vuejs-id/docs)- Dokumentasi Vue.js Bahasa Indonesia.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 
@@ -251,7 +257,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
-- [List of Indonesian Telegram Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 
 ## Community
 
