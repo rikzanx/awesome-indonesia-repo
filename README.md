@@ -277,7 +277,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Django Indonesia](https://github.com/django-id)
 - [Haskell Indonesia](https://github.com/haskell-id)
 - [Indonesian Ruby Community](https://github.com/id-ruby)
-
+- [Kotlin Indonesia](https://github.com/KotlinID)
 
 ## License
 
