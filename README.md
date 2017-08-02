@@ -279,6 +279,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Indonesian Ruby Community](https://github.com/id-ruby)
 - [Kotlin Indonesia](https://github.com/KotlinID)
 
+
 ## License
 
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)

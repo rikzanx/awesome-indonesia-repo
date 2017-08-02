@@ -27,5 +27,4 @@ tricks for the ones you already use.
 | [@renodesper](https://github.com/renodesper) | Kumpulan dotfiles yang saya miliki | [https://github.com/renodesper/dotfiles](//github.com/renodesper/dotfiles) |
 | [@pirey](https://github.com/pirey) | My personal dotfiles | [https://github.com/pirey/dotfiles](//github.com/pirey/dotfiles) |
 | [@mirzalazuardi](https://github.com/mirzalazuardi) | Vimrc for Server | [https://github.com/mirzalazuardi/vimrc-server](//github.com/mirzalazuardi/vimrc-server) |
-| [@lidilidian](https://github.com/lidilidian) | My Personal (.) files | [https://github.com/Lidilidian/configuration](//github.com/Lidilidian/configuration) |
 | [@yukiisbored](https://github.com/yukiisbored) | Yuki's personal dotfiles | [https://github.com/yukiisbored/dotfiles](//github.com/yukiisbored/dotfiles) |
