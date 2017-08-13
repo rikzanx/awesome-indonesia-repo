@@ -65,6 +65,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WallpaperBoard](https://github.com/danimahardhika/wallpaperboard) - Android wallpaper dashboard library.
 - [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX Prototype of redesigned Nike+ Running App.
 - [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
+- [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
 
 
 ## Awesome List
