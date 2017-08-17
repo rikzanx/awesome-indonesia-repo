@@ -104,7 +104,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Framework
 
 - [Panada](https://github.com/panada/Panada) - High performance PHP development framework, yet simple.
-- [Puko](https://github.com/Velliz/puko) - MVC Framework for quick and fast PHP Application Development.
+- [Puko Framework](https://github.com/Velliz/pukoframework) - MVC framework for quick PHP application development.
 - [IGOS Nusantara SDK](https://github.com/ignsdk/ignsdk-qt) - A SDK designed specifically for application developers in IGOS Nusantara.
 - [EmeraldBox](https://github.com/femmerling/EmeraldBox) - EmeraldBox is a boilerplate framework for developing python web applications with database access.
 
