@@ -218,6 +218,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Generate a new model factory using Artisan command.
 - [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di Indonesia.
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
+- [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
 
 
 ## Slim
