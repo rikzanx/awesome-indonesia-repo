@@ -219,6 +219,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di Indonesia.
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 - [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
+- [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
 
 
 ## Slim
