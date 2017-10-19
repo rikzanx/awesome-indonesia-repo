@@ -42,6 +42,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
     - [Yii](#yii)
 - [Plugin](#plugin)
 - [Python](#python)
+- [R](#R)
 - [Natural Language Processing](#natural-language-processing)
 - [Miscellaneous](#miscellaneous)
 - [Community](#community)
@@ -252,6 +253,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
+
+
+# R
+
+- [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
 
 
 ## Natural Language Processing
