@@ -191,6 +191,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [KBBI Qt](https://github.com/bgli/kbbi-qt) - KBBI Qt adalah aplikasi Kamus Besar Bahasa Indonesia berbasis GUI.
 - [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme) - Quite dark Plank theme.
 - [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
+- [Manokwari](https://github.com/BlankOn/manokwari) - A desktop shell for GNOME 3 with GTK+ and HTML5 frontend.
 
 
 ## PHP
