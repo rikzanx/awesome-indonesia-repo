@@ -266,7 +266,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Natural Language Processing
 
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
-
+- [PySastrawi](https://github.com/har07/PySastrawi) - Python port of high quality stemmer library for Indonesian Language.
 
 ## Miscellaneous
 
