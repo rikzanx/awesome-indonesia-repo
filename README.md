@@ -148,6 +148,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Soya Next](https://github.com/traveloka/soya-next) - An opinionated configured Next.js framework.
 - [Angkot](https://github.com/widatama/angkot) - A searchable Jakarta’s public transportation routes.
 - [Iyem](https://github.com/lukluk/iyem) - Simple implementation multi thread in nodejs
+- [react-electron-starter](https://github.com/hikmahgumelar/react-electron-starter) - A starter for create apps with Electron and ReactJS 
 
 
 ## Angular
