@@ -252,6 +252,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
 - [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
+- [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC) - A mpv media player lua script for Discord RPC integration
 
 
 ## Python
