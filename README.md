@@ -130,7 +130,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [unzipall](https://github.com/gedex/unzipall) - Unzip all zip files in src directory to dst directory.
 - [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
 - [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
-
+- [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go.
 
 ## JavaScript
 
