@@ -300,6 +300,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Indonesian Ruby Community](https://github.com/id-ruby)
 - [Kotlin Indonesia](https://github.com/KotlinID)
 - [Nodejs Indonesia](https://github.com/nodejs-indonesia)
+- [Hugo Indonesia](https://github.com/gohugoid)
+- [Lombokdev](https://github.com/LombokDev)
+- [Lombokjs](https://github.com/lombokjs)
 
 
 ## License
