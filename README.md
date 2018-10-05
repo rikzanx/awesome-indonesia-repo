@@ -67,6 +67,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX Prototype of redesigned Nike+ Running App.
 - [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
 - [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
+- [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android
 
 
 ## Awesome List
@@ -208,6 +209,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
 - [Terbilang](https://github.com/mul14/terbilang-php) - Convert numbers into words in Indonesian language.
 - [SLiMS 8 Akasia](https://github.com/slims/slims8_akasia) - SLiMS is free open source software for library resources management and administration.
+- [cURL Lib](https://github.com/andhikayuana/curl-lib) - Simple Wrapper for cURL
 
 
 ## CodeIgniter
