@@ -263,6 +263,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
+- [KBBI Python](https://github.com/laymonage/kbbi-python) - Modul Python untuk mengambil entri sebuah kata/frase dalam KBBI Daring.
 
 
 # R
