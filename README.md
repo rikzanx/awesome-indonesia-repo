@@ -284,6 +284,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
 - [Unblock host ID](https://github.com/gvoze32/unblockhostid) - Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
+- [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 
 ## Community
 
