@@ -152,6 +152,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Iyem](https://github.com/lukluk/iyem) - Simple implementation multi thread in nodejs
 - [react-electron-starter](https://github.com/hikmahgumelar/react-electron-starter) - A starter for create apps with Electron and ReactJS
 - [cra-universal](https://github.com/antonybudianto/cra-universal) - Create React App companion for universal app. No eject, zero config, full HMR, and more
+- [PodengJS](https://github.com/slaveofcode/podeng) - Simple JSON value normalization to make everything gone right.
 
 ## Angular
 
@@ -218,7 +219,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
-- [CodeIgniter Websocket Apache Secure](https://github.com/aacassandra/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
+- [CodeIgniter Websocket Apache Secure](https://github.com/sahabatcoding/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
 
 
 ## Laravel
