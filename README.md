@@ -219,7 +219,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
-- [CodeIgniter Websocket Apache Secure](https://github.com/aacassandra/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
+- [CodeIgniter Websocket Apache Secure](https://github.com/sahabatcoding/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
 
 
 ## Laravel
