@@ -307,6 +307,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Hugo Indonesia](https://github.com/gohugoid)
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
+- [Data Science Indonesia](https://github.com/datascienceid)
 
 
 ## License
