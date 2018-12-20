@@ -17,35 +17,38 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Table of Contents
 
-- [Android](#android)
-- [Awesome List](#awesome-list)
-- [Books](#books)
-- [Content Management System](#content-management-system)
-- [Databases](#databases)
-- [Dotfiles](dotfiles.md)
-- [Framework](#framework)
-- [Front-end Development](#front-end-development)
-- [Game](#game)
-- [GO](#go)
-- [JavaScript](#javascript)
-    - [Angular](#angular)
-    - [Express](#express)
-    - [Vue](#vue)
-- [Jekyll Theme](#jekyll-theme)
-- [Learn](#learn)
-- [Linux Software](#linux-software)
-- [PHP](#php)
-    - [CodeIgniter](#codeigniter)
-    - [Laravel](#laravel)
-    - [Slim](#slim)
-    - [Symfony](#symfony)
-    - [Yii](#yii)
-- [Plugin](#plugin)
-- [Python](#python)
-- [R](#R)
-- [Natural Language Processing](#natural-language-processing)
-- [Miscellaneous](#miscellaneous)
-- [Community](#community)
+- [Awesome Indonesia Repo](#awesome-indonesia-repo)
+  - [Contributing](#contributing)
+  - [Table of Contents](#table-of-contents)
+  - [Android](#android)
+  - [Awesome List](#awesome-list)
+  - [Books](#books)
+  - [Content Management System](#content-management-system)
+  - [Databases](#databases)
+  - [Framework](#framework)
+  - [Front-end Development](#front-end-development)
+  - [Game](#game)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+  - [Angular](#angular)
+  - [Express](#express)
+  - [Vue](#vue)
+  - [Jekyll Theme](#jekyll-theme)
+  - [Learn](#learn)
+  - [Linux Software](#linux-software)
+  - [PHP](#php)
+  - [CodeIgniter](#codeigniter)
+  - [Laravel](#laravel)
+  - [Slim](#slim)
+  - [Symfony](#symfony)
+  - [Yii](#yii)
+  - [Plugin](#plugin)
+  - [Python](#python)
+- [R](#r)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Miscellaneous](#miscellaneous)
+  - [Community](#community)
+  - [License](#license)
 
 
 ## Android
@@ -213,7 +216,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Terbilang](https://github.com/mul14/terbilang-php) - Convert numbers into words in Indonesian language.
 - [SLiMS 8 Akasia](https://github.com/slims/slims8_akasia) - SLiMS is free open source software for library resources management and administration.
 - [cURL Lib](https://github.com/andhikayuana/curl-lib) - Simple Wrapper for cURL
-
+- [ovoid](https://github.com/lintangtimur/ovoid) - Unofficial OVO API Wrapper
 
 ## CodeIgniter
 
