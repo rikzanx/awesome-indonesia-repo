@@ -113,6 +113,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Puko Framework](https://github.com/Velliz/pukoframework) - MVC framework for quick PHP application development.
 - [IGOS Nusantara SDK](https://github.com/ignsdk/ignsdk-qt) - A SDK designed specifically for application developers in IGOS Nusantara.
 - [EmeraldBox](https://github.com/femmerling/EmeraldBox) - EmeraldBox is a boilerplate framework for developing python web applications with database access.
+- [Scarlets](https://github.com/ScarletsFiction/Scarlets) - Multipurpose and high performance PHP framework
+- [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - A frontend framework that can help you write a simple web structure
 
 
 ## Front-end Development
@@ -156,6 +158,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [react-electron-starter](https://github.com/hikmahgumelar/react-electron-starter) - A starter for create apps with Electron and ReactJS
 - [cra-universal](https://github.com/antonybudianto/cra-universal) - Create React App companion for universal app. No eject, zero config, full HMR, and more
 - [PodengJS](https://github.com/slaveofcode/podeng) - Simple JSON value normalization to make everything gone right.
+- [SFDatabase-js](https://github.com/ScarletsFiction/SFDatabase-js) - A database library for Browser and Nodejs.
+- [SFMediaStream](https://github.com/ScarletsFiction/SFMediaStream) - HTML5 media streamer library for playing music, video, playlist, or even live streaming microphone & camera with node server.
+- [Serberries](https://github.com/ScarletsFiction/Serberries) - Nodejs live webserver that able to reload your script when running.
+- [SFFileSystem](https://github.com/ScarletsFiction/SFFileSystem) - A filesystem library for saving files inside the browser storage.
+- [SFIntercom](https://github.com/ScarletsFiction/SFIntercom) - Communication between browser's tabs with same domain.
 
 ## Angular
 
