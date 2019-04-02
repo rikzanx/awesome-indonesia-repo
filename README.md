@@ -163,6 +163,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Serberries](https://github.com/ScarletsFiction/Serberries) - Nodejs live webserver that able to reload your script when running.
 - [SFFileSystem](https://github.com/ScarletsFiction/SFFileSystem) - A filesystem library for saving files inside the browser storage.
 - [SFIntercom](https://github.com/ScarletsFiction/SFIntercom) - Communication between browser's tabs with same domain.
+- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A Chrome extension that offers audio visualization on your YouTube page with nice musical notes.
 
 ## Angular
 
