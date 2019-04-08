@@ -169,7 +169,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Angular Starter](https://github.com/antonybudianto/angular-starter) - Gulp Angular Starter using TypeScript.
 - [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, Tree-shaking, and Hot Module Reload.
-
+- [Angular Parse Typescript](https://github.com/aacassandra/aac-parsetypescript) - This package makes it easy for typescript users for access the parse database via httpclient.
 
 ## Express
 
@@ -230,7 +230,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
-- [CodeIgniter Websocket Apache Secure](https://github.com/sahabatcoding/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
+- [CodeIgniter Websocket Apache Secure](https://github.com/aacassandra/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
 
 
 ## Laravel
