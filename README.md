@@ -1,5 +1,4 @@
-Awesome Indonesia Repo
-===============
+# Awesome Indonesia Repo
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/)
 [![TravisCI](https://api.travis-ci.org/GitIndonesia/awesome-indonesia-repo.svg)](https://travis-ci.org/GitIndonesia/awesome-indonesia-repo)
@@ -50,7 +49,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Community](#community)
   - [License](#license)
 
-
 ## Android
 
 - [Android StepsView](https://github.com/anton46/Android-StepsView) - A simple progress steps view on Android.
@@ -72,7 +70,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android
 
-
 ## Awesome List
 
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
@@ -82,14 +79,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 
-
 ## Books
 
 - [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-id.md) - Freely available programming books with Indonesia Language.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - E-Library yang berisi kumpulan E-Book tentang dunia IT.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
-
 
 ## Content Management System
 
@@ -101,11 +96,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
 
-
 ## Databases
 
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
-
 
 ## Framework
 
@@ -116,7 +109,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Scarlets](https://github.com/ScarletsFiction/Scarlets) - Multipurpose and high performance PHP framework
 - [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - A frontend framework that can help you write a simple web structure
 
-
 ## Front-end Development
 
 - [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown) - Bootstrap plugin for markdown editing.
@@ -124,12 +116,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
 
-
 ## Game
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
 - [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
-
 
 ## Go
 
@@ -170,11 +160,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Angular Starter](https://github.com/antonybudianto/angular-starter) - Gulp Angular Starter using TypeScript.
 - [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, Tree-shaking, and Hot Module Reload.
 
-
 ## Express
 
 - [Express4 Bootstrap Starter](https://github.com/hengkiardo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
-
 
 ## Vue
 
@@ -190,13 +178,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Salat Time](https://github.com/widatama/salat-time) - Location based daily salat schedule.
 - [Tic Tac Vue](https://github.com/widatama/tic-tac-vue) - Tic tac toe game implemented with Vue.js.
 
-
 ## Jekyll Theme
 
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
 - [Stack Problem](https://github.com/agusmakmun/agusmakmun.github.io) - Free and open-source Jekyll theme.
-
 
 ## Learn
 
@@ -206,14 +192,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 - [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Kumpulan materi pembelajaran dasar-dasar pemrograman dalam bahasa Python.
 
-
 ## Linux Software
 
 - [KBBI Qt](https://github.com/bgli/kbbi-qt) - KBBI Qt adalah aplikasi Kamus Besar Bahasa Indonesia berbasis GUI.
 - [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme) - Quite dark Plank theme.
 - [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
 - [Manokwari](https://github.com/BlankOn/manokwari) - A desktop shell for GNOME 3 with GTK+ and HTML5 frontend.
-
 
 ## PHP
 
@@ -232,7 +216,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
 - [CodeIgniter Websocket Apache Secure](https://github.com/sahabatcoding/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
 
-
 ## Laravel
 
 - [Avatar](https://github.com/laravolt/avatar) - Plug and play avatar, turn initial name into beautiful avatar.
@@ -247,12 +230,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
 
-
 ## Slim
 
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment.
 - [Boilerplate Slim 3](https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework.
-
 
 ## Symfony
 
@@ -263,13 +244,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Yii2 Admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager).
 
-
 ## Plugin
 
 - [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
 - [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
 - [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC) - A mpv media player lua script for Discord RPC integration
-
 
 ## Python
 
@@ -278,11 +257,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
 - [KBBI Python](https://github.com/laymonage/kbbi-python) - Modul Python untuk mengambil entri sebuah kata/frase dalam KBBI Daring.
 
-
 # R
 
 - [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
-
 
 ## Natural Language Processing
 
@@ -322,7 +299,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
 - [Data Science Indonesia](https://github.com/datascienceid)
-
+- [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 
 ## License
 
