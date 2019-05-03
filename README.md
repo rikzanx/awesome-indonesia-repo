@@ -154,6 +154,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [SFFileSystem](https://github.com/ScarletsFiction/SFFileSystem) - A filesystem library for saving files inside the browser storage.
 - [SFIntercom](https://github.com/ScarletsFiction/SFIntercom) - Communication between browser's tabs with same domain.
 - [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A Chrome extension that offers audio visualization on your YouTube page with nice musical notes.
+- [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
 
 ## Angular
 
@@ -184,6 +185,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
 - [Stack Problem](https://github.com/agusmakmun/agusmakmun.github.io) - Free and open-source Jekyll theme.
+- [Jekyll Starter Blog](https://github.com/sutanlab/jekyll-starter-blog) - Awesome and Beautiful Jekyll Starter kit.
 
 ## Learn
 
