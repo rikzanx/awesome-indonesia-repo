@@ -303,6 +303,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Lombokjs](https://github.com/lombokjs)
 - [Data Science Indonesia](https://github.com/datascienceid)
 - [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
+- [BekasiJS](https://github.com/bekasijs)
+- [SurabayaJS](https://github.com/SurabayaJS)
 
 ## License
 
