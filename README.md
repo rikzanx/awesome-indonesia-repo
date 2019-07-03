@@ -180,6 +180,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Salat Time](https://github.com/widatama/salat-time) - Location based daily salat schedule.
 - [Tic Tac Vue](https://github.com/widatama/tic-tac-vue) - Tic tac toe game implemented with Vue.js.
 
+## Gridsome Starter
+
+- [Gridsome Tailwind Starter](https://github.com/bogordesaincom/gridsome-tailwindcss-starter) - Gridsome Starter with Tailwindcss Integration :wave: .
+
+
 ## Jekyll Theme
 
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
