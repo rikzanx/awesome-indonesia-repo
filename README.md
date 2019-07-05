@@ -125,6 +125,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [unzipall](https://github.com/gedex/unzipall) - Unzip all zip files in src directory to dst directory.
 - [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
+- [Imaginative Go](https://github.com/sonyarianto/imaginative-go) - Web to learn Go.
 - [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
 - [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go.
 - [Proctor](https://github.com/gojektech/proctor) - A Developer-Friendly Automation Orchestrator.
