@@ -208,6 +208,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme) - Quite dark Plank theme.
 - [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
 - [Manokwari](https://github.com/BlankOn/manokwari) - A desktop shell for GNOME 3 with GTK+ and HTML5 frontend.
+- [AndKamus](https://github.com/andriawan/AndKamus) - Aplikasi kamus Bahasa Indonesia - Bahasa Inggris berbasis CLI dikembangkan dengan C++.
 
 ## PHP
 
@@ -240,6 +241,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 - [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
+- [Free PMO](https://github.com/andriawan/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
 
 ## Slim
 
