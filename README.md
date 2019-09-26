@@ -316,6 +316,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Hugo Indonesia](https://github.com/gohugoid)
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
+- [JemberDev](https://github.com/jember-dev)
 - [Data Science Indonesia](https://github.com/datascienceid)
 - [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 - [BekasiJS](https://github.com/bekasijs)
