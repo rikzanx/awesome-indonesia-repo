@@ -70,6 +70,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
 - [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android
+- [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (like Tokopedia's lucky egg or Bukalapak's maudikode).
 
 ## Awesome List
 
