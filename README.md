@@ -285,6 +285,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
 - [PySastrawi](https://github.com/har07/PySastrawi) - Python port of high quality stemmer library for Indonesian Language.
+- [Indonesian NLP resources](https://github.com/kmkurn/id-nlp-resource) - A list of Indonesian NLP resources related to language modeling, sentiment analysis, and more.
 
 ## Miscellaneous
 
