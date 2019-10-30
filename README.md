@@ -208,6 +208,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Docs vuejs id](https://github.com/vuejs-id/docs) - Dokumentasi Vue.js Bahasa Indonesia.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 - [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Kumpulan materi pembelajaran dasar-dasar pemrograman dalam bahasa Python.
+- [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - Best E-Book Learn Go in Bahasa.
 
 ## Linux Software
 
