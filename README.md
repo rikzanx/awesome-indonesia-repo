@@ -33,6 +33,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Angular](#angular)
   - [Express](#express)
   - [Vue](#vue)
+  - [Gridsome Starter](#gridsome-starter)
   - [Jekyll Theme](#jekyll-theme)
   - [Learn](#learn)
   - [Linux Software](#linux-software)
@@ -249,7 +250,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 - [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
-- [Free PMO](https://github.com/andriawan/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
+- [Free PMO](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
 
 ## Slim
 
