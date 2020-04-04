@@ -194,11 +194,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Gridsome Tailwind Starter](https://github.com/bogordesaincom/gridsome-tailwindcss-starter) - Gridsome Starter with Tailwindcss Integration :wave: .
 
-
 ## Jekyll Theme
 
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
+- [Jekyll Klisé](https://github.com/piharpi/jekyll-klise) - Theme for running a personal site or blog, light and dark mode support.
 - [Stack Problem](https://github.com/agusmakmun/agusmakmun.github.io) - Free and open-source Jekyll theme.
 - [Jekyll Starter Blog](https://github.com/sutanlab/jekyll-starter-blog) - Awesome and Beautiful Jekyll Starter kit.
 
@@ -322,6 +322,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
 - [JemberDev](https://github.com/jember-dev)
+- [Banyuwangi Dev](https://github.com/banyuwangidev)
 - [Data Science Indonesia](https://github.com/datascienceid)
 - [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 - [BekasiJS](https://github.com/bekasijs)
