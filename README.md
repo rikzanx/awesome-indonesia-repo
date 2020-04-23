@@ -135,6 +135,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go.
 - [Proctor](https://github.com/gojektech/proctor) - A Developer-Friendly Automation Orchestrator.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
+- [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
 
 ## Rust
 
