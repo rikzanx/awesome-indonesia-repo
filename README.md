@@ -28,6 +28,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Front-end Development](#front-end-development)
   - [Game](#game)
   - [Go](#go)
+  - [Rust](#rust)
   - [JavaScript](#javascript)
   - [Java](#java)
   - [Angular](#angular)
@@ -133,6 +134,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
 - [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go.
 - [Proctor](https://github.com/gojektech/proctor) - A Developer-Friendly Automation Orchestrator.
+- [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
+- [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
+
+## Rust
+
+- [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node
 
 ## JavaScript
 
@@ -161,6 +168,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A Chrome extension that offers audio visualization on your YouTube page with nice musical notes.
 - [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
+- [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
 
 ## Java
 
