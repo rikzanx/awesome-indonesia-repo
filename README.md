@@ -73,8 +73,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android
 - [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (like Tokopedia's lucky egg or Bukalapak's maudikode).
-- [Android Image Picker](https://github.com/WendyYanto/android-image-picker) - Image gallery library by using coroutine to help user to choose image (single or multi)
-- [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android tictactoe game using customview
+- [Android Image Picker](https://github.com/WendyYanto/android-image-picker) - Non-blocking image gallery library built using kotlin and coroutine to help user to choose image (single or multi)
+- [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android tictactoe game built using kotlin
 
 ## Awesome List
 
