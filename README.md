@@ -241,6 +241,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [cURL Lib](https://github.com/andhikayuana/curl-lib) - Simple Wrapper for cURL
 - [ovoid](https://github.com/lintangtimur/ovoid) - Unofficial OVO API Wrapper
 - [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3)- MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
+- [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis
+- [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia
 
 ## CodeIgniter
 
@@ -262,6 +264,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
 - [Free PMO](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
+- [LaraCed (Laravel Creator-Editor-Destroyer)](https://github.com/RioRizkyRainey/LaraCed) - This package automatically inserts/updates creator, editor and destroyer on your table migrations.
 
 ## Slim
 
