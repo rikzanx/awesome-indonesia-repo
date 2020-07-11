@@ -140,6 +140,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
 - [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
 
+## Haskell
+
+- [juancuk-hs](https://github.com/shitiomatic/juancuk-hs) - Onion vanity URL generator written in Haskell
+- [blockell](https://github.com/shitiomatic/blockell) - Experimental blockchain implementation using Haskell
+
 ## Rust
 
 - [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node
