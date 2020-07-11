@@ -28,6 +28,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Front-end Development](#front-end-development)
   - [Game](#game)
   - [Go](#go)
+  - [Haskell](#haskell)
   - [Rust](#rust)
   - [JavaScript](#javascript)
   - [Java](#java)
