@@ -28,6 +28,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Front-end Development](#front-end-development)
   - [Game](#game)
   - [Go](#go)
+  - [Haskell](#haskell)
   - [Rust](#rust)
   - [JavaScript](#javascript)
   - [Java](#java)
@@ -138,6 +139,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Proctor](https://github.com/gojektech/proctor) - A Developer-Friendly Automation Orchestrator.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
 - [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
+
+## Haskell
+
+- [juancuk-hs](https://github.com/shitiomatic/juancuk-hs) - Onion vanity URL generator written in Haskell
+- [blockell](https://github.com/shitiomatic/blockell) - Experimental blockchain implementation using Haskell
 
 ## Rust
 
