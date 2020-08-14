@@ -150,7 +150,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node
 
 ## JavaScript
-
+- [PandaJS](https://github.com/rizki4106/pandajs) - pandajs is a library for create REST SERVER
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 - [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
 - [JVFloat.js](https://github.com/maman/JVFloat.js) - jQuery / Zepto plugin to emulate Matt D. Smith's floating placeholder text.
