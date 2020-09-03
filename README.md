@@ -298,6 +298,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
 - [KBBI Python](https://github.com/laymonage/kbbi-python) - Modul Python untuk mengambil entri sebuah kata/frase dalam KBBI Daring.
+- [Excel2api](https://github.com/FerdinaKusumah/excel2api) - Convert your excel data as api.
+- [Simple Face Recognition](https://github.com/FerdinaKusumah/face-recognition-webservice) - Simple face recognition with example.
+- [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
 
 # R
 
