@@ -85,6 +85,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [Belajar ngoding dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo) - A list of Indonesian resources for learning to code.
 
 ## Books
 
