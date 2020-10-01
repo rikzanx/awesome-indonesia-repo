@@ -302,7 +302,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Excel2api](https://github.com/FerdinaKusumah/excel2api) - Convert your excel data as api.
 - [Simple Face Recognition](https://github.com/FerdinaKusumah/face-recognition-webservice) - Simple face recognition with example.
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
-
+- [ABPindo](https://github.com/ABPindo/indonesianadblockrules) - ABPindo merupakan filter tambahan untuk melengkapi EasyList memblokir iklan mengganggu di situs berbahasa Indonesia dan Malaysia.
 # R
 
 - [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
