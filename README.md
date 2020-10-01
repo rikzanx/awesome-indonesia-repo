@@ -124,6 +124,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
+- [Stisla](https://github.com/stisla/stisla) - A Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI
 
 ## Game
 
