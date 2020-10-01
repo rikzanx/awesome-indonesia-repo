@@ -272,6 +272,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
 - [Free PMO](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
 - [LaraCed (Laravel Creator-Editor-Destroyer)](https://github.com/RioRizkyRainey/LaraCed) - This package automatically inserts/updates creator, editor and destroyer on your table migrations.
+- [Indoregion](https://github.com/azishapidin/indoregion) - Package Data Provinsi, Kabupaten/Kota, Kecamatan/Distrik dan Desa/Kelurahan di Indonesia.
 
 ## Slim
 
