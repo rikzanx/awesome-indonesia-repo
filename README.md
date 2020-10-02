@@ -144,7 +144,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Haskell
 
 - [juancuk-hs](https://github.com/bejoistic/juancuk-hs) - Onion vanity URL generator written in Haskell
-- [blockell](https://github.com/shitiomatic/blockell) - Experimental blockchain implementation using Haskell
+- [blockell](https://github.com/bejoistic/blockell) - Experimental blockchain implementation using Haskell
 
 ## Rust
 
