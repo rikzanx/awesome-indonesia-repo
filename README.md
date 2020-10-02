@@ -210,7 +210,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Gridsome Starter
 
-- [Gridsome Tailwind Starter](https://github.com/bogordesaincom/gridsome-tailwindcss-starter) - Gridsome Starter with Tailwindcss Integration :wave: .
 
 ## Jekyll Theme
 
