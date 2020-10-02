@@ -100,7 +100,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Pusaka CMS](https://github.com/codepolitanlab/pusakacms) - File-based CMS build with CodeIgniter Framework.
 - [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
 - [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
-- [Wayang CMS](https://github.com/Wayang-CMS/WayangCMS) - Wayang CMS is Open Source CMS made in Indonesia.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
 
