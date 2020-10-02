@@ -137,7 +137,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Imaginative Go](https://github.com/sonyarianto/imaginative-go) - Web to learn Go.
 - [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
 - [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
-- [Proctor](https://github.com/gojektech/proctor) - A Developer-Friendly Automation Orchestrator.
+- [Proctor](https://github.com/gojek/proctor) - A Developer-Friendly Automation Orchestrator.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
 - [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
 
